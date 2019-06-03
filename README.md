@@ -1,10 +1,10 @@
+# **自今日起，若再有更新将只在[GitLab](http://gitlab.raspython.xyz/walker/TianguoguoXiaopu)私人站点更新，敬请悉知**
+
 ## **甜果果小铺商城案例（微信小程序）**
 
 **下一版本更新预计于2019年6月后**
 **下一版本更新预计于2019年6月后**
 **下一版本更新预计于2019年6月后**
-
-**自今日起，若再有更新将只在[GitLab](http://gitlab.raspython.xyz/walker/TianguoguoXiaopu)私人站点更新，敬请悉知**
 
 ### *案例基本情况介绍*
 - 甜果果商城案例是基于API工厂后台搭建的微信小程序前端代码，商城管理需配合后台[**API工厂**](https://www.it120.cc/login "API工厂")使用。API工厂账号免费注册使用，基本会员功能足以满足日常经营活动使用
